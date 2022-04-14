@@ -1,5 +1,5 @@
 # Seri-Num-Checker
-Seri/Serial numarasının geçerli olup olmadığını kontrol eden uygulama | برنامه ی کنترل درستی و نادرستی سریال نامبر
+Seri/Serial numarasının geçerli olup olmadığını kontrol eden uygulama | برنامه ی کنترل درستی و نادرستی شماره سری/سریال نامبر
 
 Bir ürünün seri numarası şu özelliklere sahiptir:
 
