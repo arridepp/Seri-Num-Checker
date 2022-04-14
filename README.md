@@ -8,6 +8,11 @@ Bir ürünün seri numarası şu özelliklere sahiptir:
 •	Seri numarasının ilk 10 hanesinin soldan itibaren tek sıradaki rakamlarının 3’er katı ile çift sıradaki rakamlarının 2’şer katı alınıp toplandığında elde edilen toplamın birler basamağı 11. hanedeki rakamı vermelidir. Örneğin seri numarası 14257821454 ise doğrulama aşağıdaki şekilde yapılır.
 ![a](https://user-images.githubusercontent.com/74824751/163471240-8b5f1666-770e-4a53-a869-02f8515bdf87.png)
 
+Bu iki kurala göre kullanıcının girdiği seri numarasının geçerli olup olmadığını kontrol ederek ekrana yazdıran programı Python ile kodlıyoruz:
+
+•Kullanıcıdan seri numarasını basamak basamak tek tek girmesi istenmeyecektir(tek seferde alınacak).
+
+•Seri numarası tümüyle tek seferde okunarak gerekli kontroller yapılacaktır
 
 ......................![1](https://user-images.githubusercontent.com/74824751/160303296-6dd40c26-532e-4d33-b4b4-fa21db021104.gif)......................
 
