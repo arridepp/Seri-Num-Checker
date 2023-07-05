@@ -14,7 +14,7 @@ According to these two rules, we code the program with Python, which checks whet
 
 • Serial number will be read all at once and necessary checks will be made.
 
-......................![1](https://user-images.githubusercontent.com/74824751/160303296-6dd40c26-532e-4d33-b4b4-fa21db021104.gif)......................
+............................................
 
 Seri/Serial numarasının geçerli olup olmadığını kontrol eden uygulama.
 
